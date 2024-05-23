@@ -1,3 +1,9 @@
+# Fork Information
+This project is a fork of [com.unity.webrtc](https://github.com/Unity-Technologies/com.unity.webrtc), which is licensed under the Apache License, Version 2.0. The original license can be found [here](https://github.com/Unity-Technologies/com.unity.webrtc/blob/main/LICENSE.md).
+## License
+The original work in this repository is licensed under the Apache License, Version 2.0 (the "Original License"). Please see the `LICENSE` file in the original repository for the full text of the [Original License](https://github.com/Unity-Technologies/com.unity.webrtc/blob/main/LICENSE.md).
+All changes and modifications made by Magic Leap are licensed under the Magic Leap 2 Developer License. For the full text of this license, please refer to the `LICENSE-MagicLeap` [found here](https://github.com/magicleap/com.unity.webrtc/blob/main/LICENSE-MagicLeap.md).
+
 # WebRTC for Unity
 
 <img src="https://img.shields.io/badge/unity-2020.3-green.svg?style=flat-square" alt="unity 2020.3">
